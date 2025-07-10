@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile! I’m Krishna Priya, a passionate B.Com student with a keen interest in 
+Welcome to my GitHub profile! I’m Krishna Priyaa, a passionate BCom student with a keen interest in 
 the world of Information Technology. I’m committed to expanding my tech skills and growing both creatively and analytically.
 
 ## 🚀 About Me
