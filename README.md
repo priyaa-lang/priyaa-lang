@@ -1,24 +1,25 @@
-# Hi there, I’m Krishna Priya 👋
+# Hi there, I’m Krishna Priyaa 👋
 
-🌟 **B.Com Student | Aspiring IT Professional | Tech Explorer**
+🌟 **BCom Student | Aspiring IT Professional | Tech Explorer**
 
 ---
 
-Welcome to my GitHub profile! I’m Krishna Priya, a passionate B.Com student with a keen interest in the world of Information Technology. I’m committed to expanding my tech skills and growing both creatively and analytically.
+Welcome to my GitHub profile! I’m Krishna Priya, a passionate B.Com student with a keen interest in 
+the world of Information Technology. I’m committed to expanding my tech skills and growing both creatively and analytically.
 
 ## 🚀 About Me
 
-- 🎓 **Student:** Currently pursuing B.Com, with a strong desire to combine my business background with technology.
-- 💻 **Learning:** Exploring Python, C, C++, MySQL, CSS—and excited to keep learning more!
+- 🎓 **Student:** Currently pursuing BCom, with a strong desire to combine my business background with technology.
+- 💻 **Learning:** Exploring Python,C++, MySQL, CSS and HTML excited to keep learning more!
 - 🌱 **Growth Mindset:** Focused on improving my coding skills and exploring the endless possibilities in tech.
 - 🎯 **Goals:** To build a robust IT career that fuses creativity with analytical thinking.
-- 🔭 **Future Projects:** I’m planning to start working on my own tech projects—stay tuned for updates!
+- 🔭 **Future Projects:** I’m planning to start working on my own tech projects stay tuned for updates!
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, C, C++
+- **Languages:** Python,C++
 - **Databases:** MySQL
-- **Web:** CSS
+- **Web:** HTML,CSS
 - **And more to come…**
 
 ## ✨ Let’s Connect!
