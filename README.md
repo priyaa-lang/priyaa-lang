@@ -10,7 +10,8 @@ the world of Information Technology. I’m committed to expanding my tech skills
 ## 🚀 About Me
 
 - 🎓 **Student:** Currently pursuing BCom, with a strong desire to combine my business background with technology.
-- 💻 **Learning:** Exploring Python,C++, MySQL, CSS and HTML excited to keep learning more!
+- 💻 **💻 Learning: Confident with Python, HTML,CSS and MYSQL now exploring JavaScript and expanding my web development skills!
+!
 - 🌱 **Growth Mindset:** Focused on improving my coding skills and exploring the endless possibilities in tech.
 - 🎯 **Goals:** To build a robust IT career that fuses creativity with analytical thinking.
 - 🔭 **Future Projects:** I’m planning to start working on my own tech projects stay tuned for updates!
